@@ -45,12 +45,12 @@ While all three tools offer keyword research, site audits, and competitor analys
 
 ## **Product Features**
 
-**Ahrefs Features**
+### **Ahrefs Features**
 
 1. **Keyword Research:**
 
 <a href="https://afftrend.com/ahrefs">
-  <img src="https://drive.google.com/uc?export=view&id=1masnQT6JOENWf9hWJLnUgIq6Jxh1-BOF" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1masnQT6JOENWf9hWJLnUgIq6Jxh1-BOF" width="800px" alt="Ahrefs Keyword Research">
 </a>
     
 Ahrefs' Keyword Explorer offers insights into search volume, keyword difficulty, clicks, and related terms, helping you target broader topics and find high-potential keywords.
@@ -58,7 +58,7 @@ Ahrefs' Keyword Explorer offers insights into search volume, keyword difficulty,
 2. **Backlink Analysis:**
 
 <a href="https://afftrend.com/ahrefs">
-  <img src="https://drive.google.com/uc?export=view&id=1vOfUVIJrdBuG6UkiUet3OsI4HyKsacN7" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1vOfUVIJrdBuG6UkiUet3OsI4HyKsacN7" width="800px" alt="Ahrefs Backlink Analysis">
 </a>
     
 Ahrefs is known for having one of the largest, most up-to-date backlink indexes. It allows you to analyze backlinks, referring domains, anchor text, and track link growth.
@@ -66,7 +66,7 @@ Ahrefs is known for having one of the largest, most up-to-date backlink indexes.
 3. **Site Audit:**
 
 <a href="https://afftrend.com/ahrefs">
-  <img src="https://drive.google.com/uc?export=view&id=1wNvSDb11Wg5C5xOT-N7_oE3Ywf0FDW4L" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1wNvSDb11Wg5C5xOT-N7_oE3Ywf0FDW4L" width="800px" alt="Ahrefs Site Audit">
 </a>
 
 Ahrefs crawls your entire website, flags over 100 SEO issues, and provides actionable tips for fixing them, including broken links, slow pages, and mobile usability.
@@ -74,7 +74,7 @@ Ahrefs crawls your entire website, flags over 100 SEO issues, and provides actio
 4. **Rank Tracking:**
 
 <a href="https://afftrend.com/ahrefs">
-  <img src="https://drive.google.com/uc?export=view&id=1IIygcNvj-8N6xjkm0sBEZ2ttW5Kb_2MB" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1IIygcNvj-8N6xjkm0sBEZ2ttW5Kb_2MB" width="800px" alt="Ahrefs Rank Tracking">
 </a>
 
 Ahrefs offers daily updates for rank tracking, with advanced visibility metrics, competitor comparisons, and mobile/desktop ranking by location, plus email alerts for ranking changes.
@@ -82,25 +82,21 @@ Ahrefs offers daily updates for rank tracking, with advanced visibility metrics,
 5. **Competitor Analysis:**
 
 <a href="https://afftrend.com/ahrefs">
-  <img src="https://drive.google.com/uc?export=view&id=1qehTtaLoovc0VCIAwsrdJeX4BLOdMmiE" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1qehTtaLoovc0VCIAwsrdJeX4BLOdMmiE" width="800px" alt="Ahrefs Cmpetitor Analysis">
 </a>
 
 Ahrefs’ Site Explorer lets you analyze competitors' top pages, traffic sources, backlinks, and content strategies, giving you deep insights for competitive advantage.
-    
-6. **Content Tools:**
-    
-Ahrefs' Content Explorer lets you search for the most shared content, analyze backlinks to top content, and discover content trends in your niche, helping you optimize your own content strategy.
 
 <a href="https://afftrend.com/ahrefs"> 
 <img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
 </a>
     
-**Moz Pro Features**
+### **Moz Pro Features**
 
 1. **Keyword Research:**
 
 <a href="https://afftrend.com/mozpro">
-  <img src="https://drive.google.com/uc?export=view&id=1TmI-eCDgojsSrfkiBIDHVqyfRS-y4Ug9" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1TmI-eCDgojsSrfkiBIDHVqyfRS-y4Ug9" width="800px" alt="Mozpro Keyword Reseach">
 </a>
 
 Moz Pro’s keyword tool offers keyword difficulty scores, search volume, organic CTR, and a priority score, making it easy to find and target high-potential keywords with user-friendly metrics.
@@ -108,7 +104,7 @@ Moz Pro’s keyword tool offers keyword difficulty scores, search volume, organi
 2. **Backlink Analysis:**
 
 <a href="https://afftrend.com/mozpro">
-  <img src="https://drive.google.com/uc?export=view&id=1ERFKWd7LwEfEDuQp84uveoW7JE1LnY-j" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1ERFKWd7LwEfEDuQp84uveoW7JE1LnY-j" width="800px" alt="Mozpro Backlink Analysis">
 </a>
 
 Moz Pro’s Link Explorer lets you track backlinks, domain authority, and spam score. It provides a quick snapshot of backlink health, though with a smaller index than Ahrefs.
@@ -120,7 +116,7 @@ Moz’s site audit tool is great for beginners, providing a list of SEO issues l
 4. **Rank Tracking:**
 
 <a href="https://afftrend.com/mozpro">
-  <img src="https://drive.google.com/uc?export=view&id=1g7edqkE5ccz2R4nYDa_ZUBHiVMR1fPfC" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1g7edqkE5ccz2R4nYDa_ZUBHiVMR1fPfC" width="800px" alt="Mozpro Site Audit">
 </a>
 
 Moz Pro offers reliable rank tracking for monitoring keyword positions over time. It tracks rankings at both a page and site level, giving you an overview of your SEO performance.
@@ -128,12 +124,10 @@ Moz Pro offers reliable rank tracking for monitoring keyword positions over time
 5. **Competitor Analysis:**
 
 <a href="https://afftrend.com/mozpro">
-  <img src="https://drive.google.com/uc?export=view&id=1y0h-ekzbX_AQ-oeEAJ_zzdwQKd3iBXfh" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1y0h-ekzbX_AQ-oeEAJ_zzdwQKd3iBXfh" width="800px" alt="Mozpro Competitor Analysis">
 </a>
 
 Moz Pro’s competitor analysis is fairly basic, allowing you to compare domain authority, keyword overlaps, and link metrics. It’s simple but useful for understanding your competitive position.
-    
-6. **Content Tools:**
     
 Moz Pro doesn’t offer robust content tools compared to Ahrefs or Semrush but provides keyword suggestions and optimization tips to help you enhance your content strategy.
 
@@ -141,12 +135,12 @@ Moz Pro doesn’t offer robust content tools compared to Ahrefs or Semrush but p
 <img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
 </a>
 
-**Semrush Features**
+### **Semrush Features**
 
 1. **Keyword Research:**
 
 <a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=1GRUTEnBCoKWgEW__QLB5ZjbB0wThBvcU" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1GRUTEnBCoKWgEW__QLB5ZjbB0wThBvcU" width="800px" alt="Semrush Keyword Research">
 </a>
 
 Semrush’s Keyword Magic Tool offers an extensive database with filters for keyword intent, questions, and trends. It also shows keyword difficulty, search volume, and competition analysis to plan SEO strategies.
@@ -154,7 +148,7 @@ Semrush’s Keyword Magic Tool offers an extensive database with filters for key
 2. **Backlink Analysis:**
 
 <a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=1hYMqtYrly1HEnifkSr1oIQGqzBEFviG6" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1hYMqtYrly1HEnifkSr1oIQGqzBEFviG6" width="800px" alt="Semrush Backlink Analysis">
 </a>
 
 Semrush includes a comprehensive backlink audit tool, identifying toxic links, competitor backlink gaps, and showing backlink performance. It also integrates with Google Search Console for detailed insights.
@@ -162,7 +156,7 @@ Semrush includes a comprehensive backlink audit tool, identifying toxic links, c
 3. **Site Audit:**
 
 <a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=1H2ciCEYoX6DU0FVc9cEOb2bzGxSw--83" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1H2ciCEYoX6DU0FVc9cEOb2bzGxSw--83" width="800px" alt="Semrush Site Audit">
 </a>
 
 Semrush provides a detailed SEO audit, analyzing over 140 issues, including Core Web Vitals, HTTPS status, and crawl depth. It offers clear, actionable suggestions to improve your site’s SEO health.
@@ -170,7 +164,7 @@ Semrush provides a detailed SEO audit, analyzing over 140 issues, including Core
 4. **Rank Tracking:**
 
 <a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=1k_w-3H6eKEViqCdG_PlGZcCeENvudd_d" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1k_w-3H6eKEViqCdG_PlGZcCeENvudd_d" width="800px" alt="Semrush Rank Tracking">
 </a>
 
 Semrush’s Position Tracking allows you to monitor rankings daily with features like local tracking, device-based results, and snippet monitoring. You can track multiple SERP features in addition to keyword rankings.
@@ -178,20 +172,16 @@ Semrush’s Position Tracking allows you to monitor rankings daily with features
 5. **Competitor Analysis:**
 
 <a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=1rjfHA5l0CbqY0oGWHcGUnjKjCB2Nr2WS" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1rjfHA5l0CbqY0oGWHcGUnjKjCB2Nr2WS" width="800px" alt="Semrush Competitor Analysis">
 </a>
 
 Semrush excels in competitor analysis with tools like Traffic Analytics, Market Explorer, and Ad Research, giving you visibility into your competitors’ SEO and ad strategies, traffic sources, and top-performing content.
-    
-6. **Content Tools:**
-    
-Semrush offers a powerful SEO Content Template and AI Writing Assistant. It helps you create SEO-optimized content by suggesting keywords, readability improvements, and even checking for content originality.
+
+Whether you prioritize keyword research, backlink analysis, or comprehensive competitor insights, there’s a tool tailored for your needs. **Ahrefs** stands out for its backlink and competitor analysis, **Moz Pro** is perfect for those seeking simplicity and ease of use, while **Semrush** offers the most comprehensive all-in-one solution for advanced SEO and content strategies.
 
 <a href="https://afftrend.com/semrush"> 
 <img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
 </a>
-
-Whether you prioritize keyword research, backlink analysis, or comprehensive competitor insights, there’s a tool tailored for your needs. **Ahrefs** stands out for its backlink and competitor analysis, **Moz Pro** is perfect for those seeking simplicity and ease of use, while **Semrush** offers the most comprehensive all-in-one solution for advanced SEO and content strategies.
 
 ## **Pricing of Products**
 
